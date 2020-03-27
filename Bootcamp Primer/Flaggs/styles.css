@@ -1,0 +1,123 @@
+
+body {
+    padding-left: 90px;
+}
+
+.col {
+    border: 1px solid lightgray;
+    display: inline-block;
+    height: 270px; 
+    width: 33%;
+}
+
+.border {
+    border: 1px solid lightgray;
+    background-color: white;
+    width: 300px;
+    height: 200px;   
+}
+
+.france-blue {
+    position: absolute;
+    background-color: blue;
+    width: 100px;
+    height: 200px; 
+    left: 100px;
+}
+.france-red {
+    position: absolute;
+    background-color: red;
+    width: 100px;
+    height: 200px; 
+    left: 300px;
+}
+
+.germany-black {
+    position: absolute;
+    background-color: black;
+    top: 77px;
+    width: 300px;
+    height: 67px;
+    left: 520px
+}
+.germany-red {
+    position: absolute;
+    background-color: red;
+    top: 144px;
+    width: 300px;
+    height: 67px;
+    left: 520px
+
+}
+.germany-yellow {
+    position: absolute;
+    background-color: yellow;
+    top: 211px;
+    width: 300px;
+    height: 67px;
+    left: 520px
+}
+
+.switzerland-red {
+    position: absolute;
+    background-color: red;
+    width: 300px;
+    height: 200px; 
+    left: 100px;
+}
+
+.switzerland-white1 {
+    position: absolute;
+    background-color: white;
+    width: 120px;
+    height: 40px; 
+    left: 190px;
+    top: 430px;
+}
+
+.switzerland-white2 {
+    position: absolute;
+    background-color: white;
+    width: 40px;
+    height: 120px; 
+    left: 230px;
+    top: 390px;
+}
+
+.maldives-red {
+    position: absolute;
+    background-color: red;
+    width: 300px;
+    height: 200px;
+    left: 520px
+}
+
+.maldives-green {
+    position: absolute;
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    left: 570px;
+    top: 400px;
+}
+
+.maldives-white {
+    position: absolute;
+    background-color: white;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+    left: 644px;
+    top: 416px;
+}
+
+.maldives-green-circle {
+    position: absolute;
+    background-color: green;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+    left: 660px;
+    top: 416px;
+}
+

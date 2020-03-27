@@ -1,0 +1,195 @@
+
+body {
+    padding-left: 90px;
+}
+
+.col {
+    border: 1px solid lightgray;
+    display: inline-block;
+    height: 270px; 
+    width: 30%;
+}
+
+.border {
+    border: 1px solid lightgray;
+    background-color: white;
+    width: 300px;
+    height: 200px;   
+}
+
+.sweden-blue {
+    position: absolute;
+    background-color: #006AA7;
+    width: 300px;
+    height: 200px; 
+    left: 100px;
+}
+.sweden-yellow {
+    position: absolute;
+    background-color: #FECC00;
+    width: 300px;
+    height: 50px; 
+    left: 100px;
+    top: 150px;
+}
+
+.sweden-yellow2 {
+    position: absolute;
+    background-color: #FECC00;
+    width: 50px;
+    height: 200px; 
+    left: 190px;
+}
+
+.gambia-red {
+    position: absolute;
+    background-color: #CE1126;
+    top: 77px;
+    width: 300px;
+    height: 63px;
+    left: 480px
+}
+.gambia-blue {
+    position: absolute;
+    background-color: #1D2E90;
+    top: 154px;
+    width: 300px;
+    height: 48px;
+    left: 480px
+
+}
+.gambia-green {
+    position: absolute;
+    background-color: #3A7728;
+    top: 214px;
+    width: 300px;
+    height: 63px;
+    left: 480px
+}
+
+.tonga-red1 {
+    position: absolute;
+    background-color: #C10000ed;
+    width: 300px;
+    height: 200px; 
+    left: 859px;
+}
+
+.tonga-white {
+    position: absolute;
+    background-color: white;
+    width: 130px;
+    height: 100px; 
+    left: 859x;
+}
+
+.tonga-red2 {
+    position: absolute;
+    background-color: #C10000;
+    width: 75px;
+    height: 25px; 
+    left: 885px;
+    top: 114px;
+}
+
+.tonga-red3 {
+    position: absolute;
+    background-color: #C10000;
+    width: 25px;
+    height: 75px; 
+    left: 910px;
+    top: 89px;
+}
+
+.japan-red {
+    position: absolute;
+    background-color: #C10000;
+    border-radius: 75px;
+    width: 125px;
+    height: 125px;
+    left: 182px;
+    top: 387px;
+}
+
+.greece-blue {
+    position: absolute;
+    background-color: #0D5EAF;
+    width: 300px;
+    height: 200px;
+    top: 349px;
+}
+
+.greece-white1 {
+    position: absolute;
+    background-color: white;
+    width: 190px;
+    height: 22px;
+    left: 590px;
+    top: 372px;
+}
+.greece-white2 {
+    position: absolute;
+    background-color: white;
+    width: 190px;
+    height: 22px;
+    left: 590px;
+    top: 416px;
+}
+.greece-white3 {
+    position: absolute;
+    background-color: white;
+    width: 300px;
+    height: 22px;
+    left: 480px;
+    top: 460px;
+}
+.greece-white4 {
+    position: absolute;
+    background-color: white;
+    width: 300px;
+    height: 22px;
+    left: 480px;
+    top: 504px;
+}
+.greece-white5 {
+    position: absolute;
+    background-color: white;
+    width: 110px;
+    height: 22px;
+    left: 480px;
+    top: 394px;
+}
+.greece-white6 {
+    position: absolute;
+    background-color: white;
+    width: 22px;
+    height: 111px;
+    left: 524px;
+    top: 349px;
+}
+.niger-orange {
+    position: absolute;
+    background-color: #E05206;
+    width: 300px;
+    height: 67px; 
+    left: 859px;
+}
+
+.niger-orange2 {
+    position: absolute;
+    background-color: #E05206;
+    border-radius: 28px;
+    width: 56px;
+    height: 56px; 
+    left: 970px;
+    top: 420px;
+}
+
+.niger-green {
+    position: absolute;
+    background-color: #0DB02B;
+    width: 300px;
+    height: 67px; 
+    left: 859x;
+    top: 482px;
+}
